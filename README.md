@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, ben **trote1ro**
+# 👋 Hey, ben **Trotteiro**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=550&lines=Discord+bot+geliştiricisi;Node.js+ve+otomasyon+meraklısı;Ses%2C+donanım+ve+ince+ayar+odaklı;Modern+backend+çözümleri)](https://git.io/typing-svg)
 
@@ -69,6 +69,6 @@
 
 ## 📫 Bana Ulaş
 
-- GitHub: **[@trote1ro](https://github.com/trote1ro)**  
+- GitHub: **[@Trotteiro](https://github.com/trote1ro)**  
 
 > Profil sürekli gelişiyor — yeni projeler geldikçe güncellemeye devam edeceğim. 🚀
